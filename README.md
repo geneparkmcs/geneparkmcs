@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Gene Park
 
-I'm a **Computer Science** and **Mathematics** student at **NYU**, with a love for blending **data analysis**, **AI**, and **software development** to solve real-world problems. Whether it's building predictive models, automating workflows, or creating full-stack web applications, I'm always excited about projects that challenge me to learn and grow.
+I'm a and **Mathematics**, **Computer Science**, and **Economics** student at **NYU**, with a love for blending **data analysis**, **AI**, and **software development** to solve real-world problems. Whether it's building predictive models, automating workflows, or creating full-stack applications, I'm always excited about projects that challenge me to learn and grow.
 
 ---
 
