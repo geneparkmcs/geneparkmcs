@@ -22,9 +22,3 @@ I believe that data holds the key to understanding complex systems. I’m passio
 I love working on projects where I can take an idea and turn it into something impactful. Whether it's improving efficiency in an existing system, automating tedious tasks, or developing new ways for AI to interact with the world—I'm always looking for new challenges.  
 
 For me, coding is more than just a career—it’s a creative outlet. It’s the thrill of building something from the ground up and watching it come to life that keeps me excited to push my skills forward.
-
----
-
-## 💡 **Let’s Collaborate!**
-
-If you’re passionate about AI or data-driven projects, I’d love to connect. I’m always open to new ideas, collaborations, and learning opportunities. Let’s create something amazing together!
