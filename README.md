@@ -10,7 +10,7 @@ I'm a **Mathematics**, **Computer Science**, and **Economics** student at **NYU*
 I’m fascinated by how machines can learn from data and make decisions. From training neural networks in games to building predictive models for the banking industry, I’m constantly exploring new ways to apply AI in everyday solutions.
 
 ### **💻 Full-Stack Development**
-Building user-friendly applications that solve real problems is something I truly enjoy. Whether it's frontend or backend, I love the process of creating systems that work seamlessly and make life easier for people.
+Building user-friendly applications that solve real problems is something I truly enjoy. Whether it's frontend, backend, or fullstack, I love the process of creating systems that work seamlessly and make life easier for people.
 
 ### **📊 Data Science & Automation**
 I believe that data holds the key to understanding complex systems. I’m passionate about making sense of data and automating processes to reduce manual work—saving time for more creative problem-solving.
